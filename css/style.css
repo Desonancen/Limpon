@@ -1,0 +1,255 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color:#7581a1;
+    font-size: 16px;
+    line-height:26px;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    font-size: 80px;
+    font-weight: 600;
+    color:#192b59;
+}
+.nav {
+    font-size:12px;
+    color:#6e7ea9;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.buttonfree {
+    color:#fff;
+    font-weight: 400;
+    background-color: #1085e4;
+}
+.grid h2 {
+font-size:40px;
+color:#192b59;
+font-weight: 700;
+}
+.grid span{
+    font-size: 14px;
+    color:#1085e4;
+    display:block;
+}
+.grid-item h3 {
+    font-size: 20px;
+    color:#192b59;
+    font-weight: 700;
+}
+.grid-item a {
+    font-size: 14px;
+    color:#1085e4;
+    font-weight: 600;
+}
+.page-header .start {
+    font-size:12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color:#fff;
+    background-color: #1085e4;
+}
+.page-header .learn {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color:#7e8bae;
+    background-color:#cbdbe8;
+}
+.page-subscribe .sub {
+text-transform: uppercase;
+font-weight: 400;
+color:#00bffe;
+font-size:14px;
+display:block;
+}
+.page-subscribe h2 {
+    color:#fff;
+    font-size: 50px;
+    font-weight: 400;
+    background-color: black;
+}
+.page-subscribe p{
+    font-size:18px;
+    color:#dfe8ff;
+    font-weight: 400;
+}
+.main-button {
+    color:#fff;
+    background-color:#00bffe;
+    font-size:14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border:0;
+    border-radius: 25px;
+    padding:19px 47px;
+}
+.page-software h2 {
+    font-size:50px;
+    font-weight: 400;
+    color:#192b59;
+}
+.page-software p {
+    font-weight: 400;
+    font-size: 16px;
+}
+.page-software dt {
+    color:#5a6789;
+    font-weight: 700;
+    font-size: 16px;
+}
+.page-software dd {
+    font-weight: 400;
+    font-size: 14px;
+}
+.page-stat span {
+color:#1085e4;
+font-weight: 400;
+text-transform: uppercase;
+font-size: 16px;
+}
+.page-stat h2 {
+    color:#192b59;
+    font-weight: 400;
+    font-size:50px;
+}
+.page-stat li span{
+    color:#bacbdc;
+    font-size:60px;
+}
+.page-stat li {
+    font-weight: 700;
+    font-size:12px;
+    color:#1085e4;
+    text-transform: uppercase;
+}
+.page-app h2 {
+font-size:50px;
+font-weight: 400;
+color:#192b59;
+}
+.page-app p {
+    font-weight: 400;
+    font-size: 16px;
+}
+.page-app .avaliable {
+    font-weight: 700;
+    font-size:16px;
+    text-transform: uppercase;
+    color:#c4d2dd;
+}
+.page-analytics h2 {
+    font-weight: 400;
+    font-size: 50px;
+    color:#192b59;
+}
+.page-analytics p {
+    font-weight: 400;
+    font-size: 16px;
+}
+.page-control h2 {
+    font-size:50px;
+font-weight: 400;
+color:#192b59;
+}
+.page-control p {
+    font-weight: 400;
+    font-size: 16px;
+}
+.page-screen span {
+    color:#1085e4;
+    font-weight: 400;
+    font-size:18px;
+    text-transform: uppercase;
+}
+.page-screen h2 {
+    font-weight: 400;
+    font-size: 40px;
+    color:#192b59;
+}
+.page-clients h2 {
+    color:#fff;
+    font-weight: 400;
+    font-size:40px;
+    background:black;
+}
+.page-clients span {
+    color:#85c8ff;
+    font-weight: 400;
+    font-size:18px;
+    text-transform: uppercase;
+}
+.page-clients p {
+color:#8085b1;
+font-weight: 400;
+font-size: 14px;
+}
+.page-clients .proffession {
+    color:#1085e4;
+    font-weight: 700;
+    font-size:14px;
+    text-transform: uppercase;
+}
+.page-clients .name {
+color:#000958;
+font-weight: 400;
+font-size:22px;
+}
+.page-plans h2 {
+color:#192b59;
+font-weight: 400;
+font-size:40px;
+}
+.page-plans span {
+    font-weight: 400;
+    font-size:18px;
+    color:#1085e4;
+    text-transform: uppercase;
+}
+.page-plans .middle {
+    color:#fff;
+}
+.page-plans h2 {
+    font-weight: 700;
+    font-size:14px;
+    text-transform: uppercase;
+    color:#0084ff;
+}
+.page-plans .number {
+font-size:70px;
+color:#000958;
+}
+
+.page-team h2 {
+font-weight: 400;
+font-size: 40px;
+color:#fff;
+background-color: black;
+}
+.page-team span {
+    color:#85c8ff;
+    font-weight: 400;
+    font-size:18px;
+    text-transform: uppercase;
+}
+.page-team h3 {
+    font-weight: 400;
+    font-size:26px;
+    color:#192b59;
+}
+.page-forms h2 {
+    color:#192b59;
+    font-weight: 400;
+    font-size:50px;
+}
+.page-footer h4 {
+    color:#b6bae0;
+    font-weight: 400;
+    font-size:16px;
+  
+}
+.page-footer span {
+    color:#1085e4;
+    text-transform: uppercase;
+}
